@@ -1,4 +1,4 @@
-from math_utils import MathUtils
+from MathUtils.py import MathUtils
 
 """adding each method"""
 def test_add():
